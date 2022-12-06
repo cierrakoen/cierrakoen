@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![Personal Website](https://img.shields.io/badge/website-merit%20pages-blue)](https://meritpages.com/cierrakoen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Cierra-Koen) 
 
 # 💻 Tech Stack:
