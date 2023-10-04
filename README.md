@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning more Javascript and React<br>👯 I’m looking to collaborate on more team-type projects<br>🌱 I’m currently learning Web Programming<br>💬 Ask me about being the Vice President of the Programming Club at GSU<br>⚡ Fun fact about me is that I love following social media posts about technology which lead me to discover the movie "Ex Machina"
+🔭 I’m currently working on developing my career post graduation!<br>👯 I’m looking to collaborate on more team-type projects<br>🌱 I’m currently learning about Blender<br>💬 Ask me about being the Vice President of the Programming Club at GSU<br>⚡ Fun fact about me is that I fell in love with technology through the movie "Ex Machina"
 
 
 ## 🌐 Socials:
